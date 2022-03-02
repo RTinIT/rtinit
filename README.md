@@ -16,17 +16,26 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtinit)](https://github.com/rtinit/github-readme-stats)
+
+
+---
+
+![rtinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtinit&show_icons=true&theme=tokyonight)
+
+---
+
 <h3 align="center" style="font-family:Architects Daughter">Contact me .</h3>
-
-[![trophy](https://rtinit-trophy.vercel.app/?rtinit=ryo-ma)](https://github.com/ryo-ma/rtinit-trophy)
-
-
 
 ![Gmail](https://img.shields.io/badge/Post-fizrukaleksikov@gmail.com-D14836??style=flat-square&logo=gmail)
 
 ![Gmail](https://img.shields.io/badge/-rtinit%237770-7289DA??style=flat-square&logo=discord&logoColor=white)
 
+---
 
+<h3 align="center" style="font-family:Architects Daughter">Stats .</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rtinit&theme=algolia)](https://github.com/rtinit/rtinit-trophy)
 
 
 <!--
