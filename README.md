@@ -12,16 +12,25 @@
 
 <h3 align="center" style="font-family:Architects Daughter">My Skills will be here .</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtinit)](https://github.com/rtinit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtinit&layout=compact)](https://github.com/rtinit/github-readme-stats)
 
 
 ---
 
-![rtinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtinit&show_icons=true&theme=tokyonight)
+<h3 align="center" style="font-family:Architects Daughter">My Codewars Badges .</h3>
+
+![codewars](https://www.codewars.com/users/RTinIT/badges/large)
+
+
+---
+
+<h3 align="center" style="font-family:Architects Daughter">Stats .</h3>
+
+![rtinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtinit&show_icons=true&count_private=true&theme=tokyonight)
 
 ---
 
@@ -33,9 +42,8 @@
 
 ---
 
-<h3 align="center" style="font-family:Architects Daughter">Stats .</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rtinit&theme=algolia)](https://github.com/rtinit/rtinit-trophy)
+
 
 
 <!--
