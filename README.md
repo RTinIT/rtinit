@@ -23,7 +23,7 @@
 
 <h3 align="center" style="font-family:Architects Daughter">My Codewars Badges .</h3>
 
-![codewars](https://www.codewars.com/users/RTinIT/badges/large)
+![codewars](https://www.codewars.com/users/rtinit/badges/large)
 
 
 ---
