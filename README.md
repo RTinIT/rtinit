@@ -6,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23000000&center=true&multiline=true&width=800&height=60&lines=Welcome+to+my+Page;I+still+learning+English%2C+so+bear+me+please...😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23000000&center=true&multiline=true&width=800&height=60&lines=Welcome+to+my+Page;I+still+learning+English%2C+so+bear+with+me+please...😄)](https://git.io/typing-svg)
 
 ---
 
