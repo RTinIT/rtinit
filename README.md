@@ -1,4 +1,4 @@
-## Hey everyone 👋 💥Welcome to my Page💥
+## 💥💥💥💥💥💥💥💥 Hey everyone 👋 Welcome to my Page 💥💥💥💥💥💥💥💥
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+junior+frontend+developer+😄)](https://git.io/typing-svg)
 
