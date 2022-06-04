@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family:Architects Daughter">Hey everyone 👋 💥Welcome to my Page💥</h2>
+## Hey everyone 👋 💥Welcome to my Page💥
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+junior+frontend+developer+😄)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
  ### ☎️ Contacts:
   
-<a href="mailto:gmail@fizrukaleksikov.com" >
+<a href="mailto:fizrukaleksikov@gmail.com" >
  <img src="https://img.shields.io/badge/Post-Gmail-D14836??style=flat-square&logo=gmail" alt="post">
 </a>
 
