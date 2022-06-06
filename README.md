@@ -19,23 +19,35 @@
 ---
 
  ### ☎️ Contacts:
-  
-<a href="mailto:fizrukaleksikov@gmail.com" >
- <img src="https://img.shields.io/badge/Post-Gmail-D14836??style=flat-square&logo=gmail" alt="post">
-</a>
 
-  
-<a href="https://discord.com/" >
- <img src="https://img.shields.io/badge/-rtinit%237770-7289DA??style=flat-square&logo=discord&logoColor=white" target="_blank" alt="discord">
-</a>
- 
-  
-<a href="https://vk.com/rtinit">
-  <img src="https://img.shields.io/badge/-rtinit-0077FF??style=flat-square&logo=vk&logoColor=white" target="_blank" alt="vk">
-</a> 
+<table>
+  <tr>
+    <td>
+      <a href="mailto:fizrukaleksikov@gmail.com" >
+        <img align="center" src="https://img.shields.io/badge/Post-Gmail-D14836??style=flat-square&logo=gmail" alt="post">
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/" >
+        <img align="center" src="https://img.shields.io/badge/-rtinit%237770-7289DA??style=flat-square&logo=discord&logoColor=white" target="_blank" alt="discord">
+      </a>
+    </td>
+    <td>
+      <a href="https://vk.com/rtinit">
+        <img align="center" src="https://img.shields.io/badge/-rtinit-0077FF??style=flat-square&logo=vk&logoColor=white" target="_blank" alt="vk">
+      </a> 
+    </td>
+    <td>
+      <a href="https://wa.me/79176488980?text=Здравствуйте%2C+у+меня+есть+вопрос">
+        <img align="center" src="https://img.shields.io/badge/-WhatsApp-43d854??style=flat-square&logo=whatsapp&logoColor=white" target="_blank" alt="whatsapp">
+      </a> 
+    </td>
+  </tr>
+</table>
 
 ---
-### 💪 The Codewars platform's bages:
+
+### 💪 The Codewars platform's badges:
 
 <img align="center" src="https://www.codewars.com/users/rtinit/badges/large">
 
@@ -47,7 +59,6 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=rtinit&show_icons=true&count_private=true&theme=tokyonight">
     </td>
     <td>
-<!--       [[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtinit&layout=compact)](https://github.com/rtinit/github-readme-stats) -->
       <img height="195px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rtinit&theme=tokyonight&layout=compact" />
     </td>
   </tr>
