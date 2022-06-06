@@ -38,7 +38,7 @@
       </a> 
     </td>
     <td>
-      <a href="https://wa.me/79176488980?text=Здравствуйте%2C+у+меня+есть+вопрос">
+      <a href="https://wa.me/79176488980">
         <img align="center" src="https://img.shields.io/badge/-WhatsApp-43d854??style=flat-square&logo=whatsapp&logoColor=white" target="_blank" alt="whatsapp">
       </a> 
     </td>
