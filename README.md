@@ -4,7 +4,7 @@
 
 - 🌱 I'm from Russia(Volgograd).
 - 📚 I’m currently attending the RSSchool frontend course.
-- 🎸 I'm guitar player.
+- 🎸 I'm a guitar player.
 
 ---
 
