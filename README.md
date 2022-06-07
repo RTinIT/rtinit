@@ -38,7 +38,7 @@
       </a> 
     </td>
     <td>
-      <a href="https://api.whatsapp.com/send?phone=79176488980">
+      <a href="https://api.whatsapp.com/send?phone=+79176488980">
         <img align="center" src="https://img.shields.io/badge/-WhatsApp-43d854??style=flat-square&logo=whatsapp&logoColor=white" target="_blank" alt="whatsapp">
       </a> 
     </td>
