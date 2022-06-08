@@ -52,7 +52,7 @@
 
 ---
 
-### 💪 The Codewars platform's badges:
+### 💪 Codewars Profile Badge:
 
 <img align="center" src="https://www.codewars.com/users/rtinit/badges/large">
 
