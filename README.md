@@ -28,7 +28,7 @@
       </a>
     </td>
     <td>
-      <a href="https://d.me/rtinit/" >
+      <a href="https://discord.com" >
         <img align="center" src="https://img.shields.io/badge/-rtinit%237770-7289DA??style=flat-square&logo=discord&logoColor=white" target="_blank" alt="discord">
       </a>
     </td>
