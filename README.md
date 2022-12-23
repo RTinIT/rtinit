@@ -1,4 +1,4 @@
-## 💥💥💥💥💥💥💥💥 Hey everyone 👋 Welcome to my Page 💥💥💥💥💥💥💥💥
+## 👋 Hey everyone 💥 Welcome to my Page 💥
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+a+junior+frontend+developer+😄)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ### 🛠 Tools:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![webpack](https://img.shields.io/badge/webpack-%238ED5FA.svg?style=for-the-badge&logo=webpack&logoColor=%231C78C0)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![webpack](https://img.shields.io/badge/webpack-%23761CEA.svg?style=for-the-badge&logo=webpack&logoColor=%231C78C0) ![vite](https://img.shields.io/badge/vite-%23A400FF.svg?style=for-the-badge&logo=vite&logoColor=%23FFD600)
 
 ---
 
