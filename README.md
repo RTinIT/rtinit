@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+a+junior+frontend+developer+😄)](https://git.io/typing-svg)
 
-- 🌱 I'm from Russia. I was born in Volgograd, but currently live in Moskow.
-- 📚 I finish the RSSchool frontend course stage-0, stage-1 and stage-2.
-- 🎸 I'm a guitar player.
+- 🌱 I'm from Russia. I was born in Volgograd, but currently live in Mosсow.
+- 📚 I completed the RS School frontend course stage-0, stage-1 and stage-2.
+- 🔭 Now I'm learning React and its ecosystem.
+- ✨ I will be grateful for help in finding my first job.
 
 ---
 
