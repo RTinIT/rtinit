@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+a+junior+frontend+developer+😄)](https://git.io/typing-svg)
 
-- 🌱 I'm from Russia. I was born in Volgograd, but currently live in Mosсow.
+- 🌱 I'm from Russia. I was born in Volgograd, but currently living in Mosсow.
 - 📚 I completed the RS School frontend course stage-0, stage-1 and stage-2.
-- 🔭 Now I'm learning React and its ecosystem.
-- ✨ I will be grateful for help in finding my first job.
+- 🔭 Now I'm learning React and it's ecosystem.
+- ✨ I will be grateful for help to get my first job.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 💪 Codewars Profile Badge:
 
-<img align="center" src="https://www.codewars.com/users/rsschool_3e2dc4aa9c406c9b/badges/large">
+<img align="center" src="https://www.codewars.com/users/rtinit/badges/large">
 
 ---
 
