@@ -1,12 +1,5 @@
 ## 👋 Hey everyone 💥 Welcome to my Page 💥
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23000000&center=true&multiline=true&width=1000&height=60&lines=My+name+is+Artyom;I'm+a+junior+frontend+developer+😄)](https://git.io/typing-svg)
-
-- 🌱 I'm from Russia. I was born in Volgograd, but currently living in Mosсow.
-- 📚 I completed the RS School frontend course stage-0, stage-1 and stage-2.
-- 🔭 Now I'm learning React and it's ecosystem.
-- ✨ I will be grateful for help to get my first job.
-
 ---
 
 ### 💻 Skills:
@@ -27,11 +20,6 @@
     <td>
       <a href="mailto:fizrukaleksikov@gmail.com" >
         <img align="center" src="https://img.shields.io/badge/Post-Gmail-D14836??style=flat-square&logo=gmail" alt="post">
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.com" >
-        <img align="center" src="https://img.shields.io/badge/-rtinit%237770-7289DA??style=flat-square&logo=discord&logoColor=white" target="_blank" alt="discord">
       </a>
     </td>
     <td>
